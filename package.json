@@ -1,0 +1,23 @@
+{
+  "name": "singlesignon-saml",
+  "version": "1.0.0",
+  "description": "Single Sign On using SAML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toseefrehan92/singleSignOn-SAML.git"
+  },
+  "author": "Tauseef Rehan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toseefrehan92/singleSignOn-SAML/issues"
+  },
+  "homepage": "https://github.com/toseefrehan92/singleSignOn-SAML#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "saml2-js": "^4.0.1"
+  }
+}
